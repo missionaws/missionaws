@@ -23,7 +23,7 @@ public class Main {
       // if the year is not century
       else
         leap = true;
-    }
+    } 
     
     else
       leap = false;
